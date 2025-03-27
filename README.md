@@ -14,3 +14,7 @@ This repository is part of the **CS50W Project 0**. It is a project that replica
 ## Project Goals:
 - To understand how to structure a webpage using HTML, CSS, and basic JavaScript.
 - To create a fully functional replica of Google’s homepage and search features for Project 0 of the CS50W course.
+## Images:
+![image](https://github.com/user-attachments/assets/aba44d1d-deef-406e-880c-0d86de92c3da) <hr>
+![image](https://github.com/user-attachments/assets/884e9890-ee78-4c61-aa5d-5752e2c3ad5c) <hr>
+![image](https://github.com/user-attachments/assets/495e4301-c1e9-46c4-854d-98c2dbf6d2c3) <hr>
